@@ -33,7 +33,7 @@ Zainstalowaliśmy potrzebne programy, np. Python, git, curl, gedit, vim.
 Pobraliśmy Android Studio. Zainstalowaliśmy KVM oraz Skonfigurowaliśmy środowisko.
 
 Na początku pobraliśmy repozytorium zawierające kod źródłowy systemu Android
-(AOSP). Zrobilismy to korzystając z oficjalnej instrukcji umieszcznej na stronie ​https://source.android.com/setup/build/downloading​ .
+(AOSP). Zrobilismy to korzystając z oficjalnej instrukcji umieszcznej na stronie https://source.android.com/setup/build/downloading .
 
 Wykorzystując technologię Docker zdołaliśmy utworzyć kontener pod Ubuntu 16 i pobrać tam android-ndk oraz kernel Androida. 
 
